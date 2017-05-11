@@ -1,8 +1,6 @@
 ## VISA instrument control in Python
 
-A short script that provides basic utility function to communicate with electronic
-instruments. This script works for both serial and GPIB communication. With some work
-around it can work also with prologix 6.0 USB-GPIB adapter.
+A short script that provides basic utility function to communicate with electronic instruments. This script works for both serial and GPIB communication. With some work around it can work also with prologix 6.0 USB-GPIB adapter.
 
 This repository contains 2 classes:
 
